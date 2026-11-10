@@ -1,0 +1,9 @@
+# Secrets et configuration locale
+.env
+
+# Build Java
+target/
+*.class
+
+# Fichiers de sauvegarde
+*.bak
