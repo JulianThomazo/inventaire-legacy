@@ -5,6 +5,8 @@ Les numéros de version suivent [SemVer](https://semver.org/lang/fr/).
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-11-13
+
 ### Added
 - `README.md` : présentation du projet, compilation et contribution.
 - `CONTRIBUTING.md` : conventions de branches, de messages de commit (Conventional Commits) et de Pull Requests.
