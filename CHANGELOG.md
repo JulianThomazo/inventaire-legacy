@@ -16,5 +16,8 @@ Les numéros de version suivent [SemVer](https://semver.org/lang/fr/).
 - Fichiers de build et de sauvegarde suivis par erreur : `target/Panier.class`, `src/Panier.java.bak` (#8).
 - `notes.txt`, remplacé par les issues du milestone v1.0.0 (#10).
 
+### Fixed
+- Le total TTC est arrondi au centime, au taux normal de TVA de 20 % (#16).
+
 ### Security
 - Clé d'API de paiement (`.env`) retirée de tout l'historique avant la publication du dépôt.
